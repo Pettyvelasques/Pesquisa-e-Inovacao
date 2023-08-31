@@ -1,0 +1,27 @@
+.a {
+	background-color: #ff6e35;
+	width: 500px;
+	height: 500px;
+}
+.a-1 {
+	background-color: #66ff66;
+	width: 50%;
+	height: 50%;
+}
+.a-2 {
+	color: white;
+	background-color: red;
+	font: monospace;
+	font-size: 25px;
+	font-weight: bold;
+}
+.b {
+	width: 50%;
+	height: 50vh;
+	background-color: rgb(135, 206, 250);
+}
+.b-1 {
+	width: 75vw;
+	height: 50%;
+	background-color: rgb(300, 000, 000);
+}

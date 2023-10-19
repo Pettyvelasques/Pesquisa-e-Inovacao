@@ -1,0 +1,20 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.tela_graficos {
+	display: flex;
+	width: 50vw;
+	height: 100vh;
+}
+
+#myChart {
+	width: 45vw;
+	margin: 2%;
+}
+
+#myChartMedia {
+	width: 45vw;
+	margin: 2%;
+}
